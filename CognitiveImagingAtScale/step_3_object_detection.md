@@ -16,5 +16,5 @@ REFERENCE ASSEMBLY ImageOcr;
     OPTION (PARTITION(FileName) = (PARTITIONCOUNT = 1000));
 
 OUTPUT @objects
-    TO "/objects.csv“
+    TO "/objects.csv"
      USING Outputters.Csv();

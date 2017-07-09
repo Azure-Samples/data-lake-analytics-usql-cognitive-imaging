@@ -1,3 +1,10 @@
+---
+services: data-lake-analytics
+platforms: dotnet
+author: saveenr-msft
+---
+
+# Data Lake Analytics U-SQL Cognitive + Imaging at Scale demo
 
 # Contributing
 

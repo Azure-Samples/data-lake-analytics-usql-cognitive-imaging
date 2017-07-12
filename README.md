@@ -4,7 +4,7 @@ platforms: dotnet
 author: saveenr-msft
 ---
 
-# U-SQL: Imaging at Scale demo
+# U-SQL: Imaging at Scale
 
 # Contributing
 
